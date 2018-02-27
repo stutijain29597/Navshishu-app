@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/profile"
+            android:checked="true"
+            android:title="Profile" />
+
+        <item
+            android:id="@+id/videos"
+            android:icon="@drawable/video"
+            android:title="Videos" />
+        <item
+            android:id="@+id/stats"
+            android:icon="@drawable/stats"
+            android:title="Group chat" />
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/contact"
+            android:title="Contact" />
+        <item
+            android:id="@+id/feedback"
+            android:title="Feedback"
+            android:icon="@drawable/feed"/>
+    </group>
+
+
+
+</menu>

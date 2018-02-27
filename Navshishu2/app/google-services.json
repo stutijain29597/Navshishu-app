@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "23706035659",
+    "firebase_url": "https://navshishu.firebaseio.com",
+    "project_id": "navshishu",
+    "storage_bucket": "navshishu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23706035659:android:352fcf248750bc92",
+        "android_client_info": {
+          "package_name": "com.example.admin1.navshishu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23706035659-3gor52qo597haf9803e6p8o1rn6fbe30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin1.navshishu",
+            "certificate_hash": "03d26b868d9cd74127e38d78583c09c92822f189"
+          }
+        },
+        {
+          "client_id": "23706035659-1te4m80iktukglkc9v8orvg8r5tsb85i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfJDtpGmkSt6zMqIRtP-bJe17wGGTPRWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23706035659-1te4m80iktukglkc9v8orvg8r5tsb85i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
